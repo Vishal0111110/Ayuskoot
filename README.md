@@ -1,7 +1,7 @@
 # Ayuskoot
 
-Cross Platform Full Stack Life Saving App Named 'Ayuskoot' - Works on Android, iOS & Web!
-You can view how this app looks using the screenshots in the screenshots folder.
+- Cross Platform Full Stack Life Saving App Named 'Ayuskoot' - Works on Android, iOS & Web!
+- You can view how this app looks using the screenshots in the screenshots folder.
 
 ## Features
 - Real-Time Ambulance Tracking: Monitor ambulances via GPS for accurate location updates.
